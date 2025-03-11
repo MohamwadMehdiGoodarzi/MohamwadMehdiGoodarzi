@@ -3,6 +3,13 @@
 ## My Acticity
 <img src="https://github-readme-stats.vercel.app/api?username=MohamwadMehdiGoodarzi&show_icons=true&theme=dracula">
 
+## My social
+<a src="" >
+  <img style="width:300px; height:32px;"  src="https://img.shields.io/badge/Instagram-Mohamwad.js-red?logo=instagram">
+</a>
+<a src="">
+  <img style="width:300px; height:32px;" src="https://img.shields.io/badge/Telegram-Mohamwad_1997A-blue?logo=telegram">
+</a>
 ## My Projects Languages
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamwadMehdiGoodarzi&hide_progress=false">
 
